@@ -32,3 +32,6 @@
 *.app
 
 .vscode
+
+./cpp-for-programmers-course
+file.txt
